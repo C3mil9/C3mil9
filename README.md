@@ -6,7 +6,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=c3mil9&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244238287%3Fu%3Db63fdcdc9fba22967f99328a7438005a604f9791%26v%3D4&style=terminal" alt="c3mil9 hero visual" />
 </p>
 
-**Camilo ** · Cybersecurity & full-stack engineer
+**Camilo ** · Cybersecurity & Software engineer
 
 ## Operating principles
 
