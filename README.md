@@ -2,7 +2,7 @@ Hi!! 👋
 
 ## 💫 About Me:
 
-I'm a Computer Science student at California State Polytechnic University, Pomona with a minor in Cybersecurity & Mathamatics, graduating May 2028. I'm interested in security engineering and full-stack development. Feel free to explore my projects and reach out!
+I'm a Computer Science student at California State Polytechnic University, Pomona with a minor in Cybersecurity & Mathematics, graduating May 2028. I'm interested in security engineering and full-stack development. Feel free to explore my projects and reach out!
 
 ### 🌐 Socials:
 
