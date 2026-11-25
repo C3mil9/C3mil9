@@ -11,6 +11,7 @@ I'm a Computer Science student at California State Polytechnic University, Pomon
 ### 💻 Tech Stack:
 
 ![Bash / Shell](https://img.shields.io/badge/BASH%20%2F%20SHELL-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell](https://img.shields.io/badge/SHELL-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
